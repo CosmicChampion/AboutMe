@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    margin: 0;
+
+    padding: 0;
+    background: url(img/1-999.png) no-repeat;
+    background-size: cover;
+}
+
+.all{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 0%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+
+}
+
+.img img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.about_me{
+    font-size: 20px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    margin-top: 20px;
+}
+.text{
+    font-size: 12px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin: 20px 0;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
